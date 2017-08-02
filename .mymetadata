@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="KafkaDemo"
+  id="myeclipse.1499667473156"
+  context-root="/KafkaDemo"
+  j2ee-spec="6.0"
+  archive="KafkaDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
