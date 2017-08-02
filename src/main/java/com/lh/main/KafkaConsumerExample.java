@@ -13,7 +13,8 @@ import org.apache.kafka.clients.consumer.KafkaConsumer;
  * @author linhao
  *
  */
-public class KafkaConsumerExample { 
+public class KafkaConsumerExample {  
+	
 
 	/**
 	 * @param args
